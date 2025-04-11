@@ -13,7 +13,7 @@
 ## Experience
 
 - **2017 - 2019:** Working Student PHP Development
-- **2019 - Jetzt:** Devops Engineer
+- **2019 - Now:** Devops Engineer
 
 ## Philosophy
 
