@@ -2,7 +2,7 @@
 
 ## Personal Information
 - **Date of Birth:** 12.03.1988
-- **Contact:** [marc.heyer@tu-dortmund.de](mailto:marc.heyer@tu-dortmund.de)
+- **Contact:** [kontakt@marc-heyer.de](mailto:kontakt@marc-heyer.de)
 
 ## Education
 
