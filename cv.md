@@ -13,7 +13,8 @@
 ## Experience
 
 - **2017 - 2019:** Working Student PHP Development
-- **2019 - Now:** Devops Engineer
+- **2019 - 2025:** Devops Engineer
+- **2025 - now:** Cloud Operations Engineer
 
 ## Philosophy
 
@@ -26,38 +27,49 @@
 ## Tech
 
 - basics
+  - reading documention
   - git
   - sh
-  - containerization (docker)
+  - containerization
 
 - platforms
   - aws
+  - azure -.-
 
 - ci/cd
   - github actions
+  - azure pipelines
   - docker multistage builds
   - flux
   - argocd
 
 - orchestration
-  - devboxes (scripts to startup local development environments automatically to ease the development process)
-  - kubernetes (managed)
+  - kubernetes
   - helm
   - kustomize
 
 - monitoring/logging
+  - alloy
+  - tempo
   - prometheus
   - loki
   - grafana
 
 - databases
   - mysql
+  - postgres
   - redis
-  - elasticsearch
 
 - broker
   - rabbitmq
+  - hivemq
 
 - security
   - sops
   - kyverno
+  - falco
+
+
+## Certifications
+- IT-Grundschutz-Praktiker (BSI)
+- Informationssicherheitsbeauftragter (IHK)
