@@ -5,7 +5,7 @@
 - **Contact:** [kontakt@marc-heyer.de](mailto:kontakt@marc-heyer.de)
 
 ## Education
-- **2009 - 2014:** Studies in Geosiences
+- **2009 - 2014:** Studies in Geosciences
 - **2014 - 2020:** Studies in Computer Science
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2020:** Bachelor of Science in Computer Science
 
