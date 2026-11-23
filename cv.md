@@ -30,7 +30,7 @@
   - containerization
 - platforms
   - aws
-  - azure -.-
+  - azure
 - ci/cd
   - github actions
   - azure pipelines
